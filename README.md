@@ -1,12 +1,15 @@
-# Programming_Assignment_5
+# Sorted linked list
+
 Java program that implements a sorted linked list.
 
 
-Problem: Write a Java program that implements a sorted linked list. You have to implement four of the following operations: insert, that adds an element into the list, print that prints the entire list (this would be in sorted order), remove deletes or removes the linked list, and exit to exit from the program. The program prompts the user to enter one of the following four commands: insert, print, remove, and exit. insert lets the user add a character to the list, print prints the list, remove gets rid of the current list and exit terminates the program. For other requests the program displays an error message.
+## Problem
 
-Some additional rules cannot exit while there is a none null linked list (have to remove first), can only enter lower case letters ‘a’ to ‘z’.
+Write a Java program that implements a sorted linked list. You have to implement four of the following operations: insert, that adds an element into the list, print that prints the entire list (this would be in sorted order), remove deletes or removes the linked list, and exit to exit from the program. The program prompts the user to enter one of the following four commands: insert, print, remove, and exit. insert lets the user add a character to the list, print prints the list, remove gets rid of the current list and exit terminates the program. For other requests the program displays an error message.
 
-Below is a sample run of the program.
+=> Some additional rules cannot exit while there is a none null linked list (have to remove first), can only enter lower case letters ‘a’ to ‘z’.
+
+#### Below is a sample run of the program.
 
 > insert 
 enter a char: a
